@@ -20,4 +20,4 @@ Note: most commands will require the user to provide a custom callback method th
 
 Custom commands can be implemented aswell simply by implementing the ``IAnchorManagerCommand``.
 
-For further questions please place an ussue or contact us at n.a.miedema@student.tudelft.nl or j.vermeer-1@student.tudelft.nl
+For further questions please place an issue or contact us at n.a.miedema@student.tudelft.nl or j.vermeer-1@student.tudelft.nl
