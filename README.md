@@ -1,8 +1,8 @@
 # BulletWhale.HoloToolkit.AnchorManagement
 The AnchorManagement system developed for league of lasers. This package was originally intended for Unity 2017.4.3f1, it also requires the HoloToolkit: https://github.com/Microsoft/MixedRealityToolkit-Unity
 
-This system will share HoloLens anchors using web requests or store them on a local disk. 
-The servir to post and retrieve from can be configured, it is recommended to deploy a simple webserver that implements endpoints for
+This system will share HoloLens anchors using web requests or store them on a local disk. It uses the Master Client, slave client architecture as described in: (https://repository.tudelft.nl/islandora/object/uuid%3Ad3c88c25-d2d6-4cbc-a140-2178396a14e3?collection=education).
+The server to post and retrieve from can be configured, it is recommended to deploy a simple webserver that implements endpoints for
 posting anchors and retrieving them. This server is not provided in this package.
 
 The package includes some scripts and prefabs to use this sharing solution. 
